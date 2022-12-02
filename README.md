@@ -45,7 +45,7 @@ If you use this model in your research or publications, please cite using the fo
 
 Escalera Mendoza, A.S., Mishra, I., Griffith, D.T., "An Open-Source NuMAD Model for the IEA 15 MW Blade with Baseline Structural Analysis," AIAA Scitech 2023 Forum, American Institute of Aeronautics and Astronautics, National Harbor, Maryland, 2023. 
 
-    @inproceedings{UTDIEA15MW_blademodel,
+    @inproceedings{UTD_IEA15MW_blademodel,
     title = {{An Open-Source NuMAD Model for the IEA 15 MW Blade with Baseline Structural Analysis}},
     author = {Escalera Mendoza, Alejandra Stefania and Mishra, Ipsita and Griffith, D. Todd},
     publisher = {American Institute of Aeronautics and Astronautics},
