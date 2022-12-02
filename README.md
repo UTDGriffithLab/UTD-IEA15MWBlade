@@ -41,7 +41,11 @@ The conference paper contains the following:
 - D. Todd Griffith: tgriffith@utdallas.edu
 
 # Citation
-If you use this model in your research or publications, please cite using the following (both text and LaTeX formats are provided for convenience):  
+If you use this model in your research or publications, please cite using the following:  
+
+GitHub repo release version v1.0.0: DOI: 10.5281/zenodo.7392283
+
+Conference paper(both text and LaTeX formats are provided for convenience): 
 
 Escalera Mendoza, A.S., Mishra, I., Griffith, D.T., "An Open-Source NuMAD Model for the IEA 15 MW Blade with Baseline Structural Analysis," AIAA Scitech 2023 Forum, American Institute of Aeronautics and Astronautics, National Harbor, Maryland, 2023. 
 
