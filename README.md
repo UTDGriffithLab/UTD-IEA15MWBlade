@@ -1,5 +1,5 @@
 # UTD IEA 15 MW Blade Model
-<img align="right" width="300" src="Picture/utd_iea15mwblade_pic.png">
+<img align="right" width="180" src="Picture/utd_iea15mwblade_pic.PNG">
 
 - The UTD IEA 15 MW blade model created by [Dr. D. Todd Griffith's group](https://labs.utdallas.edu/griffith/) is contained in this repository. 
 - The UTD IEA 15 MW blade model was created using the modeling tool [NuMAD v2.0](https://github.com/sandialabs/NuMAD/releases/tag/v2.0) based on the original open-source [IEA 15 MW reference wind turbine blade design](https://www.nrel.gov/docs/fy20osti/75698.pdf). The UTD IEA 15 MW blade model was created to increase the body of knowledge on large-scale wind turbines and provide one more resource to the wind energy community that can be used as reference for future studies. 
