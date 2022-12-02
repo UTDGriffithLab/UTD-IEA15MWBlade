@@ -1,14 +1,14 @@
 # UTD IEA 15 MW Blade Model
 <img align="right" width="180" src="Picture/utd_iea15mwblade_pic.PNG">
 
-- The UTD IEA 15 MW blade model created by [Dr. D. Todd Griffith's group](https://labs.utdallas.edu/griffith/) is contained in this repository. 
+- The UTD IEA 15 MW blade model created by [Griffith's group](https://labs.utdallas.edu/griffith/) is contained in this repository. 
 - The UTD IEA 15 MW blade model was created using the modeling tool [NuMAD v2.0](https://github.com/sandialabs/NuMAD/releases/tag/v2.0) based on the original open-source [IEA 15 MW reference wind turbine blade design](https://www.nrel.gov/docs/fy20osti/75698.pdf). The UTD IEA 15 MW blade model was created to increase the body of knowledge on large-scale wind turbines and provide one more resource to the wind energy community that can be used as reference for future studies. 
-- Detailed documentation of the blade structure and baseline structural performance of UTD IEA 15 MW blade model will be presented at the AIAA SciTech 2023 conference. The paper will be added in this repo as soon as it is made available, please see the [Citation section](#citation) below for the appropriate citation for this work. 
+- Detailed documentation of the blade structure and baseline structural analysis of UTD IEA 15 MW blade model will be presented at the AIAA SciTech 2023 conference. The paper will be added in this repo as soon as it is made available, please see the [Citation section](#citation) below for the appropriate citation for this work. 
 
 # Repo Contents
 The following summarizes the contents in this repo:
 - NuMAD model: 
-   - NuMAD_utd_iea15mw.xlsx : Primary input file for NuMAD v2.0. Spreadsheet that contains the blade model data (detailed geometry, materials, layup information, and bill of materials summary). 
+   - NuMAD_utd_iea15mw.xlsx : Primary input file for NuMAD v2.0 spreadsheet that contains the blade model data (detailed geometry, materials, layup information, and bill of materials summary). 
    - utd_iea15mw.nmd : NuMAD model file using NuMAD v2.0 with input from the NuMAD_utd_iea15ms.xlsx spreadsheet. 
    - MatDBsi.txt : NuMAD materials database containing the material and laminate property information. 
    - "airfoils" folder : Contains set of files with the NuMAD airfoil geometry coordinates used to model the blade. 
@@ -31,7 +31,7 @@ The conference paper contains the following:
   - Visualization of blade model and distributed properties. 
   - Blade mass and bill of materials (BOM). 
   - Modal properties.
-- Detailed Structural Analysis:
+- Detailed structural analysis:
   - Design load case (DLC) analysis. 
   - Baseline structural analysis: Deflection, strength, fatigue, buckling, and flutter. 
   - Blade model score card. 
