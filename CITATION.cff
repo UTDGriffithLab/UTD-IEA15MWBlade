@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this blade model, please cite it as below."
+authors:
+- family-names: "Escalera Mendoza"
+  given-names: "Alejandra S."
+  orcid: "https://orcid.org/0000-0001-9982-9908"
+- family-names: "Mishra"
+  given-names: "Ipsita"
+- family-names: "Griffith"
+  given-names: "D. Todd"
+  orcid: "https://orcid.org/0000-0002-8551-2069"
+title: "UTD-IEA15MWBlade"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-12-02
+url: "https://github.com/UTDGriffithLab/UTD-IEA15MWBlade"
+
