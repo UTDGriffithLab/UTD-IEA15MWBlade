@@ -3,7 +3,7 @@
 
 - The UTD IEA 15 MW blade model created by [Griffith's group](https://labs.utdallas.edu/griffith/) is contained in this repository. 
 - The UTD IEA 15 MW blade model was created using the modeling tool [NuMAD v2.0](https://github.com/sandialabs/NuMAD/releases/tag/v2.0) based on the original open-source [IEA 15 MW reference wind turbine blade design](https://www.nrel.gov/docs/fy20osti/75698.pdf). The UTD IEA 15 MW blade model was created to increase the body of knowledge on large-scale wind turbines and provide one more resource to the wind energy community that can be used as reference for future studies. 
-- Detailed documentation of the blade structure and baseline structural analysis of UTD IEA 15 MW blade model will be presented at the AIAA SciTech 2023 conference. The conference paper DOI will be added in this repo as soon as it is made available, please see the [Citation section](#citation) below for the appropriate citation for this work. 
+- Detailed documentation of the blade structure and baseline structural analysis of UTD IEA 15 MW blade model will be presented at the AIAA SciTech 2023 conference. The conference paper DOI will be added in this repo as soon as it is made available, please see the [GitHub Repo Citation](#github-repo-citation) and [Conference Paper Citation](#conference-paper-citation) sections below for the appropriate citation for this work. 
 
 # Repo Contents
 The following summarizes the contents in this repo:
@@ -40,12 +40,21 @@ The conference paper contains the following:
 - Alejandra S. Escalera Mendoza: ase180001@utdallas.edu
 - D. Todd Griffith: tgriffith@utdallas.edu
 
-# Citation
+# GitHub Repo Citation
 If you use this model in your research or publications, please cite using the following:  
+ 
+    @misc{github_utd_iea15mwblade_v1,
+    title = {UTD-IEA15MWBlade},
+    author = {Escalera Mendoza, Alejandra S. and Mishra, Ipsita and Griffith, D. Todd},
+    doi = {10.5281/zenodo.7392283},
+    version = {1.0.0},
+    month = {12},
+    year = {2022},
+    url = {https://github.com/UTDGriffithLab/UTD-IEA15MWBlade},
+    }
 
-GitHub repo release version v1.0.0: DOI: 10.5281/zenodo.7392283
-
-Conference paper(both text and LaTeX formats are provided for convenience): 
+# Conference Paper Citation
+Please use the following for citing the conference paper that details the development of the UTD IEA 15 MW blade model and its detailed baseline structural analysis: 
 
 Escalera Mendoza, A.S., Mishra, I., Griffith, D.T., "An Open-Source NuMAD Model for the IEA 15 MW Blade with Baseline Structural Analysis," AIAA Scitech 2023 Forum, American Institute of Aeronautics and Astronautics, National Harbor, Maryland, 2023. 
 
